@@ -1,0 +1,19 @@
+mlf_core_version: '1.11.4 # <<MLF-CORE_NO_BUMP>>'
+domain: mlflow
+language: pytorch
+project_slug: altm
+project_slug_no_hyphen: altm
+template_version: '2.0.0 # <<MLF-CORE_NO_BUMP>>'
+template_handle: mlflow-pytorch
+github_username: tejwos
+creator_github_username: tejwos
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: Andreas Wolf
+email: ing_wolf@outlook.de
+project_name: altm
+project_short_description: A training module for active learning in semantic image
+  segmentation.
+version: 0.1.0
+license: MIT
